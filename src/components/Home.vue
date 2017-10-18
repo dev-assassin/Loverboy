@@ -21,9 +21,13 @@
                 <input class="input is-large" type="password" placeholder="Password">
                 <button class="button is-dark is-large" style="width:100%"><i class="fa fa-user user-icon " />&nbsp;Join</button>
                 <h1 class="signup">Sign up with</h1>
-                <div class="level">
-                  <button class="button is-info is-large level-item">Facebook</button>
-                  <button class="button is-danger is-large level-item">Google</button>
+                <div class="columns">
+                  <div class="column">
+                    <button class="button is-info is-large social-login">Facebook</button>
+                  </div>
+                  <div class="column">
+                    <button class="button is-danger is-large social-login">Google</button>
+                  </div>
                 </div>
                 <p style="text-align:center">Some legal desclamer to get rid of mandatory<p>
                 <p style="text-align:center; margin-bottom:30px">check boxes and validation</p>
