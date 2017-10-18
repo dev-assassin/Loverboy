@@ -27,7 +27,7 @@
           </div>
         </a>
         <a class="navbar-item">
-            <img class="img" src="../asset/default user.jpeg" height="40" width="40" />
+            <img class="img" src="../assets/images/default user.jpeg" height="40" width="40" />
             <span class="icon has-text-danger"><i class="fa fa-comment"></i></span>
         </a>
       </div>
