@@ -1,4 +1,5 @@
 <template>
+<div class="container">
   <nav class="navbar is-transparent">
     <div class="navbar-brand">
       <a class="navbar-item" href="#">
@@ -33,7 +34,7 @@
       </div>
     </div>
   </nav>    
-
+</div>
 </template>
 
 <script>
