@@ -46,8 +46,12 @@ export default {
   .img
     border-width: 1px
     border-radius: 50%
-    max-height: 42px
   .img-container
     width: 90px
     height: 50px
+  .badge
+    margin-left: -10px
+    margin-top: -30px
+  .badge-online
+    margin-top: -20px
 </style>

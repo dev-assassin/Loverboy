@@ -15,7 +15,7 @@
     <div class="navbar-menu">
       <div class="navbar-start navbar-middle">
         <router-link to="newest" class="navbar-item"><b class="subtitle">Newest Users</b></router-link>
-        <router-link to="online" class="navbar-item nav-item"><b class="subtitle">Who's online <span class="icon tag is-white has-text-primary is-small"><i class="fa fa-circle"></i></span></b></router-link>
+        <router-link to="online" class="navbar-item nav-item"><b class="subtitle">Who's online <span class="icon tag is-white has-text-primary is-small badge-online"><i class="fa fa-circle"></i></span></b></router-link>
       </div>
 
       <div class="navbar-end">
@@ -28,7 +28,7 @@
         </a>
         <a class="navbar-item">
             <img class="img" src="../asset/default user.jpeg" height="40" width="40" />
-            <span class="icon has-text-danger"><i class="fa fa-comment"></i></span>
+            <span class="icon has-text-danger badge"><i class="fa fa-comment fa-2x"></i></span>
         </a>
       </div>
     </div>
