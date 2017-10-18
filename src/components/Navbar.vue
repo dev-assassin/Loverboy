@@ -2,9 +2,9 @@
 <div class="container">
   <nav class="navbar is-transparent">
     <div class="navbar-brand">
-      <a class="navbar-item" href="#">
+      <router-link class="navbar-item" to="/">
         <b class="title">loverboy</b>
-      </a>
+      </router-link>
 
       <div class="navbar-burger burger" data-target="navMenuTransparentExample">
         <span></span>
