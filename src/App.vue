@@ -2,12 +2,10 @@
   <div id="app">
     <navbar />
     <router-view/>
-    <home />
   </div>
 </template>
 
 <script>
-import Home from './components/Home'
 import Navbar from './components/Navbar'
 export default {
   name: 'app',
@@ -18,14 +16,15 @@ export default {
   methods: {
   },
   components: {
-    'navbar': Navbar,
-    'home': Home
+    'navbar': Navbar
   }
 }
 </script>
 
 <style lang="sass">
+  $box-padding: 0em
   @import '../node_modules/bulma/bulma.sass'
   @import './assets/style/mq'
   @import './assets/style/core'
+  @import '../node_modules/bulma-badge/badge.sass'
 </style>

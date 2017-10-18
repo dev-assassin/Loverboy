@@ -16,7 +16,7 @@
     <div class="navbar-menu">
       <div class="navbar-start navbar-middle">
         <router-link to="newest" class="navbar-item"><b class="subtitle">Newest Users</b></router-link>
-        <router-link to="online" class="navbar-item nav-item"><b class="subtitle">Who's online <span class="icon tag is-white has-text-primary is-small badge-online"><i class="fa fa-circle"></i></span></b></router-link>
+        <router-link to="online" class="navbar-item nav-item"><b class="subtitle"><span class="badge is-badge-small" data-badge=""> Who's online</span></b></router-link>
       </div>
 
       <div class="navbar-end">
