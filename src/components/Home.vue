@@ -1,8 +1,8 @@
 <template>
   <section class="hero is-light">
-    <div class="hero-body">
-      <div class="container">
-        <h1 class="title Graphik-Bold-Web hero">
+    <div class="container">
+      <div class="hero-body">
+        <h1 class="title Graphik-Bold-Web hero-title">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </h1>
       </div>
