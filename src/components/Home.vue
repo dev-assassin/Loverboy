@@ -11,7 +11,7 @@
             <div class="tabs is-centered is-medium">
               <ul class="register Graphik-Bold-Web">
                 <li class="is-active"><a>Join</a></li>
-                <li><a style="color:#eee">Log in</a></li>
+                <li><a style="color:#eee"><u>Log in</u></a></li>
               </ul>
             </div>
             <div class="field">
