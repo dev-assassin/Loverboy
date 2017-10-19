@@ -77,7 +77,7 @@
         </section>
       </div>
       <div class="level-right">
-        <a class="button is-outlined is-medium button-radius"><span class="badge is-badge-small" data-badge=""><i class="fa fa-users"></i></span><span style="margin-left: 15px">View all online users</span></a>
+        <a class="button is-outlined is-medium button-radius"><i class="fa fa-users"></i><span class="icon tag is-white has-text-success" style="margin-top:-10px"><i class="fa fa-circle"></i></span><span style="margin-left: 15px">View all online users</span></a>
       </div>
     </nav>
     <div class="columns" v-for="rowIndex in this.onlineUsers.length" :key="rowIndex">
